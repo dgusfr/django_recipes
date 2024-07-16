@@ -127,6 +127,7 @@ Inicie o servidor de desenvolvimento:
 
 `python manage.py runserver`
 
+<br></br>
 
 ## Autor
 Desenvolvido por Diego Franco
