@@ -84,3 +84,32 @@ def create_recipe(request):
         form = RecipeForm()
     return render(request, 'recipes/create_recipe.html', {'form': form})
 ```
+
+
+## Como Usar
+
+Clone o repositório:
+
+`git clone https://github.com/seu-usuario/curso-django-projeto1.git`
+
+Crie e ative um ambiente virtual:
+
+`python -m venv venv`
+
+`source venv/bin/activate  # No Windows, use venv\Scripts\activate`
+
+Instale as dependências:
+
+`pip install -r requirements.txt`
+
+Execute as migrações do banco de dados:
+
+`python manage.py migrate`
+
+Inicie o servidor de desenvolvimento:
+
+`python manage.py runserver`
+
+
+## Autor
+Desenvolvido por Diego Franco
