@@ -15,6 +15,8 @@ Este projeto é um site de receitas desenvolvido em Django, onde os usuários po
 - [Como Usar](#como-usar)
 - [Autor](#autor)
 
+<br></br>
+
 ## Sumário
 
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -25,6 +27,8 @@ Este projeto é um site de receitas desenvolvido em Django, onde os usuários po
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Como Usar](#como-usar)
 - [Autor](#autor)
+
+<br></br>
 
 ## Tecnologias Utilizadas
 
@@ -46,9 +50,13 @@ Este projeto é um site de receitas desenvolvido em Django, onde os usuários po
   </div>
 </div>
 
+<br></br>
+
 ## Status
 
 ![Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
+
+<br></br>
 
 ## Descrição
 
