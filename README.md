@@ -2,11 +2,7 @@
 
 Este projeto é um site de receitas desenvolvido em Django, onde os usuários podem compartilhar e descobrir novas receitas.
 
-## Interface
-
-<div align="center">
-  <img src="img/logo.png" alt="Imagem do Projeto" width="100">
-</div>
+<br></br>
 
 ## Sumário
 
