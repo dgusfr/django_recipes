@@ -37,7 +37,7 @@ Este projeto é um site de receitas desenvolvido em Django, onde os usuários po
     <img src="img/python.png" alt="Logo Python" width="100"/>
   </div>
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
-    <img src="img/django.png" alt="Logo Django" width="100"/>
+    <img src="img/django.png" alt="Logo Django" width="250"/>
   </div>
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
     <img src="img/html.png" alt="Logo HTML" width="100"/>
