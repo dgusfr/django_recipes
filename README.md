@@ -58,7 +58,9 @@ Este projeto é um site de receitas desenvolvido em Django, onde os usuários po
 
 ## Descrição
 
-Este projeto é um site de receitas onde os usuários podem criar, visualizar, editar e deletar receitas. O projeto foi desenvolvido utilizando Django como framework principal e inclui funcionalidades como autenticação de usuários e interface administrativa.
+Este projeto é um site de receitas onde os usuários podem criar, visualizar, editar e deletar receitas. O projeto foi desenvolvido utilizando 
+
+Django como framework principal e inclui funcionalidades como autenticação de usuários e interface administrativa.
 
 <br></br>
 
