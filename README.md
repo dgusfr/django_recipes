@@ -58,8 +58,9 @@ Este projeto é um site de receitas desenvolvido em Django, onde os usuários po
 
 ## Descrição
 
-Este projeto é um site de receitas onde os usuários podem criar, visualizar, editar e deletar receitas. O projeto foi desenvolvido utilizando 
+Este projeto é um site de receitas onde os usuários podem criar, visualizar, editar e deletar receitas. 
 
+O projeto foi desenvolvido utilizando 
 Django como framework principal e inclui funcionalidades como autenticação de usuários e interface administrativa.
 
 <br></br>
@@ -97,7 +98,9 @@ def create_recipe(request):
 
 O trecho de código define uma função create_recipe que lida com a criação de uma nova receita no site. 
 
-Quando a função é chamada, ela verifica se o método da solicitação HTTP é POST. Se for, ela instancia um formulário RecipeForm com os dados enviados pelo usuário. Se o formulário for válido, a nova receita é salva no banco de dados e o usuário é redirecionado para a lista de receitas (recipe_list). 
+Quando a função é chamada, ela verifica se o método da solicitação HTTP é POST. Se for, ela instancia um formulário RecipeForm com os dados enviados pelo usuário. 
+
+Se o formulário for válido, a nova receita é salva no banco de dados e o usuário é redirecionado para a lista de receitas (recipe_list). 
 
 Se o método não for POST, um formulário vazio é exibido para o usuário preencher. Em ambos os casos, a função renderiza o template create_recipe.html, passando o formulário como contexto.
 
