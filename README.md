@@ -98,7 +98,9 @@ def create_recipe(request):
 
 O trecho de código define uma função create_recipe que lida com a criação de uma nova receita no site. 
 
-Quando a função é chamada, ela verifica se o método da solicitação HTTP é POST. Se for, ela instancia um formulário RecipeForm com os dados enviados pelo usuário. 
+Quando a função é chamada, ela verifica se o método da solicitação HTTP é POST. 
+
+Se for, ela instancia um formulário RecipeForm com os dados enviados pelo usuário. 
 
 Se o formulário for válido, a nova receita é salva no banco de dados e o usuário é redirecionado para a lista de receitas (recipe_list). 
 
