@@ -104,7 +104,9 @@ Se for, ela instancia um formulário RecipeForm com os dados enviados pelo usuá
 
 Se o formulário for válido, a nova receita é salva no banco de dados e o usuário é redirecionado para a lista de receitas (recipe_list). 
 
-Se o método não for POST, um formulário vazio é exibido para o usuário preencher. Em ambos os casos, a função renderiza o template create_recipe.html, passando o formulário como contexto.
+Se o método não for POST, um formulário vazio é exibido para o usuário preencher. 
+
+Em ambos os casos, a função renderiza o template create_recipe.html, passando o formulário como contexto.
 
 <br></br>
 
