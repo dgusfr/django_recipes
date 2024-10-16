@@ -7,7 +7,7 @@
 ## Interface
 
 <div align="center">
-  <img src="img/logo.png" alt="Imagem do Projeto" width="100">
+  <img src="img/logo.gif" alt="Imagem do Projeto" >
 </div>
 
 ## Sumário
