@@ -23,19 +23,6 @@
 
 <br></br>
 
-## Sumário
-
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Status](#status)
-- [Descrição](#descrição)
-- [Funcionalidades](#funcionalidades)
-- [Explicação](#explicação)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Como Usar](#como-usar)
-- [Autor](#autor)
-
-<br></br>
-
 ## Tecnologias Utilizadas
 
 <div style="display: flex; flex-direction: row;">
